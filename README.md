@@ -6,21 +6,21 @@ This project focuses on using a Decision Tree classifier to predict the species 
 
 ## Table of Contents
 
-- [Introduction]
+- [Introduction](#introduction)
 
-- [Dataset]
+- [Dataset](#dataset)
 
-- [Features]
+- [Features](#features)
 
-- [Methodology]
+- [Methodology](#methodology)
 
-- [Results]
+- [Results](#results)
 
-- [Usage]
+- [Usage](#usage)
 
-- [Contributing]
+- [Contributing](#contributing)
 
-- [License]
+- [License](#license)
 
 ## Introduction
 
